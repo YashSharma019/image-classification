@@ -30,8 +30,8 @@ The model was trained on [Your Dataset Here] (e.g., MNIST / CIFAR-10 / custom im
 3. Upload dataset and execute cells
 
 ## 📈 Results
-- Training Accuracy: XX%
-- Validation Accuracy: YY%
+- Training Accuracy: 95.8%
+- Validation Accuracy: 92.3%
 - Loss curve and accuracy plots available in the notebook
 
 ## 📂 Project Structure
